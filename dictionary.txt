@@ -7,17 +7,17 @@ Bratwurst              - German sausage
 Hauptstrasse           - Main road
 Brot                   - Bread
 Klimaanlage            - Air conditioning
-Rammstein              -
+Rammstein              - German band
 Porsche                - Breaks down a lot
 BMW                    - Rolls Royce's are made of these
 Biergarten             - Beer garden
-Ratskeller             -
+Ratskeller             - Restaraunt under town hall
 Dirndel                - Female folk dress?
 Lederhose              - Leather pants
 Schloss                - Lock
 wettbewerbsfaehig      - Competitive
 Mehlhase               - Alexandra Flour Bunny
-Gebaeck                - Gebaeck
+Gebaeck                - Pastry
 Baeckerei              - Bakery
 Hund                   - Dog
 Doener                 - Doner
