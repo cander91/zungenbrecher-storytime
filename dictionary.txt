@@ -4,13 +4,13 @@ Raesfeld               - A German city
 Flughafen              - Airport
 Berlin                 - A bigger German city
 Bratwurst              - German sausage
-Hauptstrasse           - Main road
+Hauptstrasse           - Main street
 Brot                   - Bread
 Klimaanlage            - Air conditioning
-Rammstein              - German band
+Rammstein              - German band (very good)
 Porsche                - Breaks down a lot
 BMW                    - Rolls Royce's are made of these
-Biergarten             - Beer garden
+Biergarten             - Beer garden (Brewery)
 Ratskeller             - Restaraunt under town hall
 Dirndel                - Female folk dress?
 Lederhose              - Leather pants
@@ -21,6 +21,6 @@ Gebaeck                - Pastry
 Baeckerei              - Bakery
 Hund                   - Dog
 Doener                 - Doner
-Apfelkuchen            - Apple Cake
+Apfelkuchen            - Apple Pie
 Schloss                - Lock again
 Eltz                   - German castle?
