@@ -14,7 +14,7 @@ Biergarten             - Beer garden (Brewery)
 Ratskeller             - Restaraunt under town hall
 Dirndel                - Female folk dress?
 Lederhose              - Leather pants
-Schloss                - Lock
+schloss                - Lock (uncapitallized and without the ß)
 wettbewerbsfaehig      - Competitive
 Mehlhase               - Alexandra Flour Bunny
 Gebaeck                - Pastry
@@ -22,5 +22,5 @@ Baeckerei              - Bakery
 Hund                   - Dog
 Doener                 - Doner
 Apfelkuchen            - Apple Pie
-Schloss                - Lock again
-Eltz                   - German castle?
+Schloß                 - château, palace or manor house
+Eltz                   - Medieval castle in Wierschem, Germany
