@@ -11,3 +11,5 @@ Jeremiah Brooks https://github.com/jrlayton/kuddelmuddel-icebreaker/pull/10
 Drake Matson https://github.com/jgreen44/ser-316-initial-team-exercise/pull/40
 
 Alexander Daigh https://github.com/everemch/rumeiern-Icebreaker/pull/1
+
+Nicholas Perea-Pilant https://github.com/cadkiso1/fernweh_teamexercise/pull/7
